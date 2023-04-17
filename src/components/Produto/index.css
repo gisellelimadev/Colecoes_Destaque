@@ -1,0 +1,24 @@
+body{
+  background-color: #f2f2f7 ;
+}
+
+
+h4 {
+  text-decoration: line-through;
+  color: #8F8F8F
+}
+
+h6{
+  color: #474747
+}
+ 
+p {
+  color: #474747
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 26px;
+}
